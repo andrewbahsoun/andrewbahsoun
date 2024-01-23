@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**andrewbahsoun/andrewbahsoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Andrew Bahsoun
 
-Here are some ideas to get you started:
+- 🏠 Based in ** Orange, CA **
+- 🎓 Studying CS @ Chapman University (second-year)
+- 🔭 I’m currently working on an ** AI Handwasher Analyzer **
+- 🌱 I’m currently learning ** JS and Ruby **
+- 👯 I’m looking to collaborate on any Projects!
+- 🤔 I’m looking for help with Computer Vision
+- 📫 How to reach me: [LinkedIn]([https://www.example.com](https://www.linkedin.com/in/andrew-bahsoun-4b3a901a2/)) 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am a campus tour guide!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
