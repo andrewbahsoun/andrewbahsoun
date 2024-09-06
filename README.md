@@ -3,7 +3,7 @@
 ### My name is Andrew Bahsoun
 
 - 🏠 Based in **Orange, CA**
-- 🎓 Studying CS @ Chapman University (second-year)
+- 🎓 Studying CS @ Chapman University (third-year)
 - 🔭 I’m currently working on an **AI Handwasher Analyzer**
 - 🌱 I’m currently learning **JS and Ruby**
 - 👯 I’m looking to collaborate on any Projects!
